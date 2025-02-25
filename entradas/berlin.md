@@ -13,3 +13,6 @@ La ciudad de Berlín está situada en el noroeste de Alemania, a orillas de los 
 - El Tiergarten. ...
 - Hofbrau Berlin. ...
 - Cafés hispter.
+
+## Foto 
+![](https://berlin-rusia-nieva.com/home
