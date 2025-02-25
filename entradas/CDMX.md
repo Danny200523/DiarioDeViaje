@@ -12,3 +12,7 @@ Es casi la ciudad más poblada en Norte América. Localizada en su totalidad en 
 - El Palacio de Bellas Artes de México.
 - La Alameda Central.
 - Museo Franz Mayer.
+
+## Foto
+![](https://CDMX-Mexico/45h4uh34)
+
