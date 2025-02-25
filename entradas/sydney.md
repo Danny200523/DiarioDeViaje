@@ -5,3 +5,6 @@ Sídney es la ciudad más grande y poblada de Australia, con una población en s
 
 ## Recomendacion
 Lo que definitivamente DEBES hacer en Sydney es… divertirte. Broncéate en la playa, prueba a hacer surf en el océano, pasea por sus paseos marítimos y lagunas, visita los numerosos pubs por la noche, reserva excursiones a los lugares del “outback” (en la región interior de Nueva Gales del Sur). ¡Vive esta ciudad como lo haría un auténtico australiano!
+
+## Foto
+![](https://australia-musa-sydney.com/bkjndf)
