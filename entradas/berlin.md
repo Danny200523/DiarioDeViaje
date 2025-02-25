@@ -16,3 +16,6 @@ La ciudad de Berlín está situada en el noroeste de Alemania, a orillas de los 
 
 ## Foto 
 ![](https://berlin-rusia-nieva.com/home
+
+## Informacion sobre Berlin
+La capital alemana combina historia y modernidad como ninguna otra metrópoli: desde la imponente Puerta de Brandemburgo hasta la polifacética escena artística y cultural y los animados cafés de barrio. Una ciudad llena de contrastes, donde el pasado se encuentra con la innovación.
