@@ -16,3 +16,6 @@ Ciudades para visitar cercanas a Londres
 
 ## Foto 
 ![](https://londres.com)
+
+## informacion sobre Londres
+Londres es uno de los destinos más populares del planeta con emblemas como el Big Ben, marcando el paso del tiempo; la Torre de Londres, o el palacio de Buckingham. Pero todo esto no es más que la punta del iceberg: teatros, museos y una apabullante vida nocturna complementan la oferta de una ciudad que nunca duerme.
