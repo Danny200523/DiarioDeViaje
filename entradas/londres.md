@@ -13,3 +13,6 @@ Ciudades para visitar cercanas a Londres
 - Cambridge. ...
 - Canterbury. ...
 - Salisbury.
+
+## Foto 
+![](https://londres.com)
