@@ -8,3 +8,6 @@ visitar el Burj Khalifa, uno de sus mayores rasca cielos
 
 ## Foto
 ![](https://dubai-emiratos-arabes-unidos/4j5mn43km)
+
+## Informacion sobre DUbai
+El Emirato de Dubai es el segundo más grande de los siete Emiratos Árabes Unidos. Es una ciudad de rascacielos, hoteles de lujo, islas artificiales, centros comerciales, puertos y playas, donde se desarrollan grandes negocios junto con el turismo en busca de diversión y lujo.
