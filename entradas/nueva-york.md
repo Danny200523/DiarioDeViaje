@@ -13,3 +13,6 @@ Lugares para visitar en New York: una aventura inolvidable
 - El Puente de Brooklyn. ...
 - El Memorial y Museo del 11 de Septiembre. ...
 - Wall Street y el distrito financiero.
+
+## Foto
+![](https://nueva-york-estados-unidos.com/24jgt24)
