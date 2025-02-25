@@ -5,3 +5,6 @@ Antaño un pequeño pueblo de pescadores en el golfo arábigo, la Dubái actual 
 
 ## Recomendacion
 visitar el Burj Khalifa, uno de sus mayores rasca cielos
+
+## Foto
+![](https://dubai-emiratos-arabes-unidos/4j5mn43km)
