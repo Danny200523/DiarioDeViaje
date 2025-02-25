@@ -5,3 +5,6 @@ pais de la tecnologio y de la cultura extremista
 
 ## Recomendacion
 Visitar sus grandes rascacielos y probar su increible culinaria
+
+## Foto
+![](https://tokyo-restaurant.com/4jgu4)
