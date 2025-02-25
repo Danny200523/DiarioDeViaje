@@ -9,7 +9,7 @@ Bienvenido a nuestro diario de viaje, donde compartimos experiencias y recomenda
 - [Viaje a Tokio](entradas/tokyo.md): Sumérgete en la vibrante cultura japonesa y su deliciosa gastronomía.
 - [Viaje a Sydney](entradas/sydney.md): Viaja a conocer lo mejor de australia
 - [Viaje a Nueva York](entradas/nueva-york.md): Viaja a conocer lo mejor de Estados Unidos
-​- [Viaje a Londres](entradas/londres.md): Viaja a conocer lo mejor de Reino Unido
+- [Viaje a Londres](entradas/londres.md): Viaja a conocer lo mejor de Reino Unido
 - [Viaje a Berlin](entradas/berlin.md): Viaja a conocer lo mejor de Rusia
 - [Viaje a Rio](entradas/rio.md): Viaja a conocer lo mejor de Brasil
 - [Viaje a Dubai](entradas/dubai.md): Viaja a conocer lo mejor de emiratos arabes unidos
