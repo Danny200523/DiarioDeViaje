@@ -8,3 +8,6 @@ Lo que definitivamente DEBES hacer en Sydney es… divertirte. Broncéate en la 
 
 ## Foto
 ![](https://australia-musa-sydney.com/bkjndf)
+
+## Informacion sobre Sydney
+la ciudad más grande y vibrante de Australia, combina a la perfección historia, modernidad y naturaleza. Desde las icónicas vistas de la Ópera y el Harbour Bridge hasta sus famosas playas como Bondi y Manly, Sídney ofrece una experiencia única que mezcla cultura, entretenimiento y calidad de vida.
