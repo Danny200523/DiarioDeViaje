@@ -16,3 +16,6 @@ Sitios como el Hotel UrbanoAbrir en una nueva pestaña podrán ayudarte en la ta
 
 ## Foto
 ![](https://rio-de-janeiro-brazil.com/brasil
+
+## Informacion sobre Rio
+La estatua del Cristo Redentor y el Pan de Azúcar, ambos sitios declarados Patrimonio de la Humanidad por la UNESCO , son un testimonio del legado perdurable de la ciudad. El vibrante corazón de Río se hace más evidente durante su mundialmente famoso Carnaval, un espectacular festival que encapsula la rica historia multicultural de Brasil
